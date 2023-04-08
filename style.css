@@ -18,9 +18,6 @@
     font-size: 62.5%;
 }
 
-body {
-    font-size: 1.6rem;
-}
 
 .page {
     width:38.4rem;
@@ -84,6 +81,7 @@ header p {
 .card {
     font-family: var(--font01);
     position: relative;
+    margin-bottom: 1.6rem;
 }
 
 .card img {
@@ -118,6 +116,14 @@ header p {
 h2 {
     animation: h2down 700ms 360ms backwards;
 
+}
+
+.card:last-child{
+    margin-bottom: 0;
+}
+
+footer {
+    display: none;
 }
 
 @keyframes h2down {
@@ -166,6 +172,8 @@ h2 {
         text-overflow: clip;
         overflow: clip;
     }
+
+    
 
     footer{
         grid-area: f;
@@ -226,4 +234,8 @@ h2 {
     .cards-container div:nth-child(6){
         grid-area: E;
     }
+}
+
+footer a {
+    text-decoration: none
 }
