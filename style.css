@@ -18,6 +18,10 @@
     font-size: 62.5%;
 }
 
+body {
+    font-size: 1.6rem;
+}
+
 .page {
     width:38.4rem;
     margin: 0 auto;
@@ -75,10 +79,6 @@ header p {
     overflow: hidden;
     margin: 0 auto;
     text-align: center;
-
-
-
-  
 }
 
 .card {
@@ -160,18 +160,11 @@ h2 {
     }
 
     .p-container{
-        width: 75%;
-        height: 300px;
+        width: 80%;
+        height: 200px;
         margin: 0 auto;
+        text-overflow: clip;
         overflow: clip;
-
-        font-family: 'Roboto';
-        font-weight: 400;
-        font-size: 24px;
-        line-height: 20px;
-        color: #FFFFFF;
-    
-       margin: 3.2rem auto 12rem;
     }
 
     footer{
@@ -181,24 +174,10 @@ h2 {
         justify-content: center;
         align-items: center;
         grid-column-start: 2;
-
-        font-family: 'Open Sans';
-        font-size: 14px;
-        line-height: 28px;
-
-        margin-bottom: 4.3rem;
     }
     
     footer strong{
         font-weight: bold;
-    }
-
-    a {
-        text-decoration: none;
-    }
-
-    a:hover {
-         color: rgb(255, 0, 217);
     }
 
     .header-container{
@@ -216,9 +195,9 @@ h2 {
 
     .cards-container{
         display: grid;
-        width: 90%;
+        width: 80%;
         height: 80%;
-        gap: 3.2rem;
+        gap: 4em;
         grid-template-areas: "A B C"
                              "D B E"
                              "D F E";
@@ -247,5 +226,4 @@ h2 {
     .cards-container div:nth-child(6){
         grid-area: E;
     }
-    
 }
