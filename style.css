@@ -196,7 +196,7 @@ h2 {
     .cards-container{
         display: grid;
         width: 80%;
-        height: 80%;
+        height: 90%;
         gap: 4em;
         grid-template-areas: "A B C"
                              "D B E"
