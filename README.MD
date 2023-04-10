@@ -4,6 +4,7 @@
 
 neste stage eu aprendi como usar grid e deixar más responsivo.
 
+<img src="imagens/sapace-cream2.png" alt="print do projeto">
 
 ## Funcionalidades
 
