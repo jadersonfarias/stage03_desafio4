@@ -4,7 +4,11 @@
 
 neste desafio eu aprendi como usar grid, deixar mais responsivo e usar animação.
 
-<img src="imagens/sapace-cream2.png" alt="print do projeto">
+# desktop
+<img src="imagens/sapace-cream2.png" alt="print do projeto-desktop">
+
+# mobile
+<img src="imagens/space-cream.png" alt="print do projeto-mobile">
 
 ## Funcionalidades
 
