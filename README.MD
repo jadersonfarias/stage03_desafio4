@@ -8,7 +8,7 @@ neste desafio eu aprendi como usar grid, deixar mais responsivo e usar animaçã
 <img src="imagens/sapace-cream2.png" alt="print do projeto-desktop">
 
 # mobile
-<img src="imagens/space-cream.png" alt="print do projeto-mobile">
+<img src="imagens/space-cream-mobile.png" alt="print do projeto-mobile">
 
 ## Funcionalidades
 
