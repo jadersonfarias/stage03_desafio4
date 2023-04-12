@@ -1,17 +1,17 @@
 
 
-## desafio do stage 06 Space Cream 
+## challenger do stage 06 Space Cream 
 
-neste desafio eu aprendi como usar grid, deixar mais responsivo e usar animação.
+in this challenge I learned how to use grid, make it more responsive and use animation.
 
 # desktop
-<img src="imagens/space-cream2.png" alt="print do projeto-desktop">
+<img src="Images/space-cream2.png" alt="print of project-desktop">
 
 # mobile
-<img src="imagens/space-cream-mobile.png" alt="print do projeto-mobile">
+<img src="Images/space-cream-mobile.png" alt="print of project-mobile">
 
-## Funcionalidades
+## features
 
 - Grid;
-- Animações e transições;
+- Animations and transitions;
 - Media queries.
